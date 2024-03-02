@@ -1,4 +1,6 @@
 # SelfDriving
+* Since the early 20th century, people have been enthused about self-driving automobiles. Is it possible that you share the vision of a future filled with automated vehicles and improved driving safety, leisure time spent behind the wheel, and freedom from the responsibilities of driving?
+* Understanding the operation of self-driving automobiles can help you be more ready for the future. For precise perception and safe navigation of their surroundings, self-driving cars rely on computers, sensor systems, algorithms, machine learning, and artificial intelligence.
 
 ![image](https://github.com/QuocHuy-1602/SelfDriving/assets/85740715/26f2ac19-fcd3-41f8-8297-a0c97129c011)
 
